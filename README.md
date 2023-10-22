@@ -1,2 +1,0 @@
-# Haedory
-Haedory
